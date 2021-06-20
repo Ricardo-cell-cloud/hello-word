@@ -1,0 +1,1010 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://guides.github.com/activities/hello-world/
+Subject: =?utf-8?Q?Hello=20World=20=C2=B7=20GitHub=20Guides?=
+Date: Sat, 22 May 2021 05:46:03 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--IyzOFBAcvCB9mCvgK8YA3U4lv9hAUce0BzjLV25LUo----"
+
+
+------MultipartBoundary--IyzOFBAcvCB9mCvgK8YA3U4lv9hAUce0BzjLV25LUo----
+Content-Type: text/html
+Content-ID: <frame-DD9A5A16A2831941AB71A537D4F7F4A5@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://guides.github.com/activities/hello-world/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>
+    
+      Hello World · GitHub Guides
+    
+  </title>
+  <link rel="icon" type="image/x-icon" href="https://guides.github.com/favicon.ico">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <link rel="stylesheet" href="https://guides.github.com/components/gridism/gridism.css">
+  <link rel="stylesheet" href="https://guides.github.com/components/primer/markdown.css">
+  <link rel="stylesheet" href="https://guides.github.com/components/primer/octicons.css">
+  <link href="https://guides.github.com/stylesheets/main.css" rel="stylesheet">
+  <link href="https://guides.github.com/stylesheets/pygments.css" rel="stylesheet">
+
+  
+  
+  
+
+
+</head>
+<body style="">
+
+  <header>
+    <div class="wrap">
+      <ul class="links">
+        <li><a href="https://www.youtube.com/githubguides">Video Guides</a></li>
+        <li><a href="https://help.github.com/">GitHub Help</a></li>
+        <li class="nav-github"><a href="https://github.com/">GitHub.com</a></li>
+        <li class="nav-rss"><a href="https://guides.github.com/feed/index.xml"><span class="octicon octicon-rss"></span></a></li>
+      </ul>
+
+      <a href="https://guides.github.com/"><img src="https://guides.github.com/images/logo@2x.png" width="136" height="25" alt="GitHub Guides logo"></a>
+    </div>
+  </header>
+
+  <article class="full">
+  <div class="article-heading js-article-heading js-geopattern" style="background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NDAiIGhlaWdodD0iNDQwIj48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJyZ2IoMTI3LCA1NCwgNjApIiAgLz48cmVjdCB4PSIwIiB5PSI1IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxNSIgb3BhY2l0eT0iMC4xMDY2NjY2NjY2NjY2NjY2NyIgZmlsbD0iI2RkZCIgIC8+PHJlY3QgeD0iMCIgeT0iMjkiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjE4IiBvcGFjaXR5PSIwLjEzMjY2NjY2NjY2NjY2NjY1IiBmaWxsPSIjMjIyIiAgLz48cmVjdCB4PSIwIiB5PSI1NyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAiIG9wYWNpdHk9IjAuMDYzMzMzMzMzMzMzMzMzMzQiIGZpbGw9IiMyMjIiICAvPjxyZWN0IHg9IjAiIHk9IjgyIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMyIgb3BhY2l0eT0iMC4wODkzMzMzMzMzMzMzMzMzMyIgZmlsbD0iI2RkZCIgIC8+PHJlY3QgeD0iMCIgeT0iMTEzIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMiIgb3BhY2l0eT0iMC4wODA2NjY2NjY2NjY2NjY2NiIgZmlsbD0iIzIyMiIgIC8+PHJlY3QgeD0iMCIgeT0iMTM3IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMyIgb3BhY2l0eT0iMC4wODkzMzMzMzMzMzMzMzMzMyIgZmlsbD0iI2RkZCIgIC8+PHJlY3QgeD0iMCIgeT0iMTY5IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMCIgb3BhY2l0eT0iMC4wNjMzMzMzMzMzMzMzMzMzNCIgZmlsbD0iIzIyMiIgIC8+PHJlY3QgeD0iMCIgeT0iMTg0IiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSI3IiBvcGFjaXR5PSIwLjAzNzMzMzMzMzMzMzMzMzMzIiBmaWxsPSIjZGRkIiAgLz48cmVjdCB4PSIwIiB5PSIxOTgiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjIwIiBvcGFjaXR5PSIwLjE1IiBmaWxsPSIjMjIyIiAgLz48cmVjdCB4PSIwIiB5PSIyMzMiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjE2IiBvcGFjaXR5PSIwLjExNTMzMzMzMzMzMzMzMzM0IiBmaWxsPSIjMjIyIiAgLz48cmVjdCB4PSIwIiB5PSIyNjEiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjUiIG9wYWNpdHk9IjAuMDIiIGZpbGw9IiNkZGQiICAvPjxyZWN0IHg9IjAiIHk9IjI3MiIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTQiIG9wYWNpdHk9IjAuMDk4IiBmaWxsPSIjMjIyIiAgLz48cmVjdCB4PSIwIiB5PSIyOTgiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEyIiBvcGFjaXR5PSIwLjA4MDY2NjY2NjY2NjY2NjY2IiBmaWxsPSIjMjIyIiAgLz48cmVjdCB4PSIwIiB5PSIzMjciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwIiBvcGFjaXR5PSIwLjA2MzMzMzMzMzMzMzMzMzM0IiBmaWxsPSIjMjIyIiAgLz48cmVjdCB4PSIwIiB5PSIzNTUiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEzIiBvcGFjaXR5PSIwLjA4OTMzMzMzMzMzMzMzMzMzIiBmaWxsPSIjZGRkIiAgLz48cmVjdCB4PSIwIiB5PSIzNzciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjUiIG9wYWNpdHk9IjAuMDIiIGZpbGw9IiNkZGQiICAvPjxyZWN0IHg9IjAiIHk9IjM5OCIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTYiIG9wYWNpdHk9IjAuMTE1MzMzMzMzMzMzMzMzMzQiIGZpbGw9IiMyMjIiICAvPjxyZWN0IHg9IjAiIHk9IjQzMSIgd2lkdGg9IjEwMCUiIGhlaWdodD0iOSIgb3BhY2l0eT0iMC4wNTQ2NjY2NjY2NjY2NjY2NyIgZmlsbD0iI2RkZCIgIC8+PHJlY3QgeD0iNSIgeT0iMCIgd2lkdGg9IjE1IiBoZWlnaHQ9IjEwMCUiIG9wYWNpdHk9IjAuMTA2NjY2NjY2NjY2NjY2NjciIGZpbGw9IiNkZGQiICAvPjxyZWN0IHg9IjI5IiB5PSIwIiB3aWR0aD0iMTgiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMC4xMzI2NjY2NjY2NjY2NjY2NSIgZmlsbD0iIzIyMiIgIC8+PHJlY3QgeD0iNTciIHk9IjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMDAlIiBvcGFjaXR5PSIwLjA2MzMzMzMzMzMzMzMzMzM0IiBmaWxsPSIjMjIyIiAgLz48cmVjdCB4PSI4MiIgeT0iMCIgd2lkdGg9IjEzIiBoZWlnaHQ9IjEwMCUiIG9wYWNpdHk9IjAuMDg5MzMzMzMzMzMzMzMzMzMiIGZpbGw9IiNkZGQiICAvPjxyZWN0IHg9IjExMyIgeT0iMCIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEwMCUiIG9wYWNpdHk9IjAuMDgwNjY2NjY2NjY2NjY2NjYiIGZpbGw9IiMyMjIiICAvPjxyZWN0IHg9IjEzNyIgeT0iMCIgd2lkdGg9IjEzIiBoZWlnaHQ9IjEwMCUiIG9wYWNpdHk9IjAuMDg5MzMzMzMzMzMzMzMzMzMiIGZpbGw9IiNkZGQiICAvPjxyZWN0IHg9IjE2OSIgeT0iMCIgd2lkdGg9IjEwIiBoZWlnaHQ9IjEwMCUiIG9wYWNpdHk9IjAuMDYzMzMzMzMzMzMzMzMzMzQiIGZpbGw9IiMyMjIiICAvPjxyZWN0IHg9IjE4NCIgeT0iMCIgd2lkdGg9IjciIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMC4wMzczMzMzMzMzMzMzMzMzMyIgZmlsbD0iI2RkZCIgIC8+PHJlY3QgeD0iMTk4IiB5PSIwIiB3aWR0aD0iMjAiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMC4xNSIgZmlsbD0iIzIyMiIgIC8+PHJlY3QgeD0iMjMzIiB5PSIwIiB3aWR0aD0iMTYiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMC4xMTUzMzMzMzMzMzMzMzMzNCIgZmlsbD0iIzIyMiIgIC8+PHJlY3QgeD0iMjYxIiB5PSIwIiB3aWR0aD0iNSIgaGVpZ2h0PSIxMDAlIiBvcGFjaXR5PSIwLjAyIiBmaWxsPSIjZGRkIiAgLz48cmVjdCB4PSIyNzIiIHk9IjAiIHdpZHRoPSIxNCIgaGVpZ2h0PSIxMDAlIiBvcGFjaXR5PSIwLjA5OCIgZmlsbD0iIzIyMiIgIC8+PHJlY3QgeD0iMjk4IiB5PSIwIiB3aWR0aD0iMTIiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMC4wODA2NjY2NjY2NjY2NjY2NiIgZmlsbD0iIzIyMiIgIC8+PHJlY3QgeD0iMzI3IiB5PSIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMC4wNjMzMzMzMzMzMzMzMzMzNCIgZmlsbD0iIzIyMiIgIC8+PHJlY3QgeD0iMzU1IiB5PSIwIiB3aWR0aD0iMTMiIGhlaWdodD0iMTAwJSIgb3BhY2l0eT0iMC4wODkzMzMzMzMzMzMzMzMzMyIgZmlsbD0iI2RkZCIgIC8+PHJlY3QgeD0iMzc3IiB5PSIwIiB3aWR0aD0iNSIgaGVpZ2h0PSIxMDAlIiBvcGFjaXR5PSIwLjAyIiBmaWxsPSIjZGRkIiAgLz48cmVjdCB4PSIzOTgiIHk9IjAiIHdpZHRoPSIxNiIgaGVpZ2h0PSIxMDAlIiBvcGFjaXR5PSIwLjExNTMzMzMzMzMzMzMzMzM0IiBmaWxsPSIjMjIyIiAgLz48cmVjdCB4PSI0MzEiIHk9IjAiIHdpZHRoPSI5IiBoZWlnaHQ9IjEwMCUiIG9wYWNpdHk9IjAuMDU0NjY2NjY2NjY2NjY2NjciIGZpbGw9IiNkZGQiICAvPjwvc3ZnPg==);">
+    <div class="wrap">
+      <div class="icon-container">
+        <span class="mega-octicon octicon-globe"></span>
+      </div>
+      <h1>Hello World</h1>
+      <span class="article-read-time article-meta">
+        <span class="octicon octicon-clock"></span> 10 minute read
+      </span>
+      
+    </div>
+  </div>
+
+
+  <div class="wrap">
+    
+    <div class="toc-wrapper">
+      <ol class="toc js-toc"><li><a href="https://guides.github.com/activities/hello-world/#intro">Intro</a></li><li><a href="https://guides.github.com/activities/hello-world/#what" class="active">What is GitHub?</a></li><li><a href="https://guides.github.com/activities/hello-world/#repository">Create a Repository</a></li><li><a href="https://guides.github.com/activities/hello-world/#branch">Create a Branch</a></li><li><a href="https://guides.github.com/activities/hello-world/#commit">Make a Commit</a></li><li><a href="https://guides.github.com/activities/hello-world/#pr">Open a Pull Request</a></li><li><a href="https://guides.github.com/activities/hello-world/#merge">Merge Pull Request</a></li></ol>
+    </div>
+    
+
+    <div class="markdown-body content-body ">
+      <p><a id="intro" title="Intro" class="toc-item"></a></p>
+
+<p>The <strong>Hello World</strong> project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!</p>
+
+<p><strong>You’ll learn how to:</strong></p>
+
+<ul>
+  <li>Create and use a repository</li>
+  <li>Start and manage a new branch</li>
+  <li>Make changes to a file and push them to GitHub as commits</li>
+  <li>Open and merge a pull request</li>
+</ul>
+
+<p><a id="what" title="What is GitHub?" class="toc-item"></a></p>
+
+<h2>What is GitHub?</h2>
+
+<p>GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.</p>
+
+<p>This tutorial teaches you GitHub essentials like <em>repositories</em>, <em>branches</em>, <em>commits</em>, and <em>Pull Requests</em>. You’ll create your own Hello World repository and learn GitHub’s Pull Request workflow, a popular way to create and review code.</p>
+
+<h4>No coding necessary</h4>
+
+<p>To complete this tutorial, you need a <a href="http://github.com/">GitHub.com account</a> and Internet access. You don’t need to know how to code, use the command line, or install Git (the version control software GitHub is built on).</p>
+
+<blockquote>
+  <p><strong>Tip:</strong> Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.</p>
+</blockquote>
+
+<p><a id="repository" title="Create a Repository" class="toc-item"></a></p>
+
+<h2>Step 1. Create a Repository</h2>
+
+<p>A <strong>repository</strong> is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a <em>README</em>, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. <em>It also offers other common options such as a license file.</em></p>
+
+<p>Your <code class="language-plaintext highlighter-rouge">hello-world</code> repository can be a place where you store ideas, resources, or even share and discuss things with others.</p>
+
+<h3>To create a new repository</h3>
+
+<ol>
+  <li>In the upper right corner, next to your avatar or identicon, click <span class="octicon octicon-plus"></span> and then select <strong>New repository</strong>.</li>
+  <li>Name your repository <code class="language-plaintext highlighter-rouge">hello-world</code>.</li>
+  <li>Write a short description.</li>
+  <li>Select <strong>Initialize this repository with a README</strong>.</li>
+</ol>
+
+<p><img src="https://guides.github.com/activities/hello-world/create-new-repo.png" alt="new-repo-form"></p>
+
+<p>Click <strong>Create repository</strong>.</p>
+
+<p><a id="branch" title="Create a Branch" class="toc-item"></a></p>
+
+<h2>Step 2. Create a Branch</h2>
+
+<p><strong>Branching</strong> is the way to work on different versions of a repository at one time.</p>
+
+<p>By default your repository has one branch named <code class="language-plaintext highlighter-rouge">main</code> which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to <code class="language-plaintext highlighter-rouge">main</code>.</p>
+
+<p>When you create a branch off the <code class="language-plaintext highlighter-rouge">main</code> branch, you’re making a copy, or snapshot, of <code class="language-plaintext highlighter-rouge">main</code> as it was at that point in time. If someone else made changes to the <code class="language-plaintext highlighter-rouge">main</code> branch while you were working on your branch, you could pull in those updates.</p>
+
+<p>This diagram shows:</p>
+
+<ul>
+  <li>The <code class="language-plaintext highlighter-rouge">main</code> branch</li>
+  <li>A new branch called <code class="language-plaintext highlighter-rouge">feature</code> (because we’re doing ‘feature work’ on this branch)</li>
+  <li>The journey that <code class="language-plaintext highlighter-rouge">feature</code> takes before it’s merged into <code class="language-plaintext highlighter-rouge">main</code></li>
+</ul>
+
+<p><img src="https://guides.github.com/activities/hello-world/branching.png" alt="a branch"></p>
+
+<p>Have you ever saved different versions of a file? Something like:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">story.txt</code></li>
+  <li><code class="language-plaintext highlighter-rouge">story-joe-edit.txt</code></li>
+  <li><code class="language-plaintext highlighter-rouge">story-joe-edit-reviewed.txt</code></li>
+</ul>
+
+<p>Branches accomplish similar goals in GitHub repositories.</p>
+
+<p>Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our <code class="language-plaintext highlighter-rouge">main</code> (production) branch. When a change is ready, they merge their branch into <code class="language-plaintext highlighter-rouge">main</code>.</p>
+
+<h3>To create a new branch</h3>
+
+<ol>
+  <li>Go to your new repository <code class="language-plaintext highlighter-rouge">hello-world</code>.</li>
+  <li>Click the drop down at the top of the file list that says <strong>branch: main</strong>.</li>
+  <li>Type a branch name, <code class="language-plaintext highlighter-rouge">readme-edits</code>, into the new branch text box.</li>
+  <li>Select the blue <strong>Create branch</strong> box or hit “Enter” on your keyboard.</li>
+</ol>
+
+<p><img src="https://guides.github.com/activities/hello-world/readme-edits.gif" alt="branch gif"></p>
+
+<p>Now you have two branches, <code class="language-plaintext highlighter-rouge">main</code> and <code class="language-plaintext highlighter-rouge">readme-edits</code>. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.</p>
+
+<p><a id="commit" title="Make a Commit" class="toc-item"></a></p>
+
+<h2>Step 3. Make and commit changes</h2>
+
+<p>Bravo! Now, you’re on the code view for your <code class="language-plaintext highlighter-rouge">readme-edits</code> branch, which is a copy of <code class="language-plaintext highlighter-rouge">main</code>. Let’s make some edits.</p>
+
+<p>On GitHub, saved changes are called <em>commits</em>. Each commit has an associated <em>commit message</em>, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.</p>
+
+<h4>Make and commit changes</h4>
+
+<ol>
+  <li>Click the <code class="language-plaintext highlighter-rouge">README.md</code> file.</li>
+  <li>Click the <span class="octicon octicon-pencil"></span> pencil icon in the upper right corner of the file view to edit.</li>
+  <li>In the editor, write a bit about yourself.</li>
+  <li>Write a commit message that describes your changes.</li>
+  <li>Click <strong>Commit changes</strong> button.</li>
+</ol>
+
+<p><img src="https://guides.github.com/activities/hello-world/commit.png" alt="commit"></p>
+
+<p>These changes will be made to just the README file on your <code class="language-plaintext highlighter-rouge">readme-edits</code> branch, so now this branch contains content that’s different from <code class="language-plaintext highlighter-rouge">main</code>.</p>
+
+<p><a id="pr" title="Open a Pull Request" class="toc-item"></a></p>
+
+<h2>Step 4. Open a Pull Request</h2>
+
+<p>Nice edits! Now that you have changes in a branch off of <code class="language-plaintext highlighter-rouge">main</code>, you can open a <em>pull request</em>.</p>
+
+<p>Pull Requests are the heart of collaboration on GitHub. When you open a <em>pull request</em>, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show <em>diffs</em>, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.</p>
+
+<p>As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.</p>
+
+<p>By using GitHub’s <a href="https://help.github.com/articles/about-writing-and-formatting-on-github/#text-formatting-toolbar">@mention system</a> in your pull request message, you can ask for feedback from specific people or teams, whether they’re down the hall or 10 time zones away.</p>
+
+<p>You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub flow before working on larger projects.</p>
+
+<h4>Open a Pull Request for changes to the README</h4>
+
+<p><em>Click on the image for a larger version</em></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Step</th>
+      <th>Screenshot</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Click the <span class="octicon octicon-git-pull-request"></span> <strong>Pull Request</strong> tab, then from the Pull Request page, click the green <strong>New pull request</strong> button.</td>
+      <td><a href="https://guides.github.com/activities/hello-world/pr-tab.gif"><img src="https://guides.github.com/activities/hello-world/pr-tab.gif" alt="pr-tab"></a></td>
+    </tr>
+    <tr>
+      <td>In the <strong>Example Comparisons</strong> box, select the branch you made, <code class="language-plaintext highlighter-rouge">readme-edits</code>, to compare with <code class="language-plaintext highlighter-rouge">main</code> (the original).</td>
+      <td><a href="https://guides.github.com/activities/hello-world/pick-branch.png"><img src="https://guides.github.com/activities/hello-world/pick-branch.png" alt="branch"></a></td>
+    </tr>
+    <tr>
+      <td>Look over your changes in the diffs on the Compare page, make sure they’re what you want to submit.</td>
+      <td><a href="https://guides.github.com/activities/hello-world/diff.png"><img src="https://guides.github.com/activities/hello-world/diff.png" alt="diff"></a></td>
+    </tr>
+    <tr>
+      <td>When you’re satisfied that these are the changes you want to submit, click the big green <strong>Create Pull Request</strong> button.</td>
+      <td><a href="https://guides.github.com/activities/hello-world/create-pr.png"><img src="https://guides.github.com/activities/hello-world/create-pr.png" alt="create-pull"></a></td>
+    </tr>
+    <tr>
+      <td>Give your pull request a title and write a brief description of your changes.</td>
+      <td><a href="https://guides.github.com/activities/hello-world/pr-form.png"><img src="https://guides.github.com/activities/hello-world/pr-form.png" alt="pr-form"></a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>When you’re done with your message, click <strong>Create pull request</strong>!</p>
+
+<hr>
+
+<blockquote>
+  <p><strong>Tip</strong>: You can use <a href="https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji">emoji</a> and <a href="https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/">drag and drop images and gifs</a> onto comments and Pull Requests.</p>
+</blockquote>
+
+<p><a id="merge" title="Merge Pull Request" class="toc-item"></a></p>
+
+<h2>Step 5. Merge your Pull Request</h2>
+
+<p>In this final step, it’s time to bring your changes together – merging your <code class="language-plaintext highlighter-rouge">readme-edits</code> branch into the <code class="language-plaintext highlighter-rouge">main</code> branch.</p>
+
+<ol>
+  <li>Click the green <strong>Merge pull request</strong> button to merge the changes into <code class="language-plaintext highlighter-rouge">main</code>.</li>
+  <li>Click <strong>Confirm merge</strong>.</li>
+  <li>Go ahead and delete the branch, since its changes have been incorporated, with the <strong>Delete branch</strong> button in the purple box.</li>
+</ol>
+
+<p><img src="https://guides.github.com/activities/hello-world/merge-button.png" alt="merge">
+<img src="https://guides.github.com/activities/hello-world/delete-button.png" alt="delete"></p>
+
+<h3>Celebrate!</h3>
+
+<p>By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub!</p>
+
+<p>Here’s what you accomplished in this tutorial:</p>
+
+<ul>
+  <li>Created an open source repository</li>
+  <li>Started and managed a new branch</li>
+  <li>Changed a file and committed those changes to GitHub</li>
+  <li>Opened and merged a Pull Request</li>
+</ul>
+
+<p>Take a look at your GitHub profile and you’ll see your new <a href="https://help.github.com/articles/viewing-contributions">contribution squares</a>!</p>
+
+<p>To learn more about the power of Pull Requests, we recommend reading the <a href="http://guides.github.com/overviews/flow/">GitHub flow Guide</a>. You might also visit <a href="http://github.com/explore">GitHub Explore</a> and get involved in an Open Source project.</p>
+
+<hr>
+
+<blockquote>
+  <p><strong>Tip</strong>: Check out our other <a href="http://guides.github.com/">Guides</a>, <a href="http://youtube.com/githubguides">YouTube Channel</a> and <a href="https://services.github.com/on-demand/">On-Demand Training</a> for more on how to get started with GitHub.</p>
+</blockquote>
+
+
+      <p class="last-updated">Last updated July 24, 2020</p>
+    </div>
+  </div>
+</article>
+
+
+  <footer>
+    <div class="wrap">
+      <span class="mega-octicon octicon-mark-github"></span>
+      <p>
+        <a href="https://github.com/">GitHub</a> is the best way to build and ship software.<br>
+        Powerful collaboration, code review, and code management for open source and private projects.
+      </p>
+    </div>
+  </footer>
+
+
+
+</body></html>
+------MultipartBoundary--IyzOFBAcvCB9mCvgK8YA3U4lv9hAUce0BzjLV25LUo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://guides.github.com/components/gridism/gridism.css
+
+@charset "utf-8";
+
+.grid, .unit { box-sizing: border-box; }
+
+.grid { display: block; clear: both; }
+
+.grid .unit { float: left; width: 100%; padding: 10px; }
+
+.grid .unit:first-child { padding-left: 20px; }
+
+.grid .unit:last-child { padding-right: 20px; }
+
+.unit .unit:first-child { padding-left: 0px; }
+
+.unit .unit:last-child { padding-right: 0px; }
+
+.unit .grid:first-child > .unit { padding-top: 0px; }
+
+.unit .grid:last-child > .unit { padding-bottom: 0px; }
+
+.no-gutters .unit, .unit.no-gutters { padding: 0px !important; }
+
+.wrap .grid, .grid.wrap { max-width: 978px; margin: 0px auto; }
+
+.grid .whole, .grid .w-1-1 { width: 100%; }
+
+.grid .half, .grid .w-1-2 { width: 50%; }
+
+.grid .one-third, .grid .w-1-3 { width: 33.3332%; }
+
+.grid .two-thirds, .grid .w-2-3 { width: 66.6665%; }
+
+.grid .one-quarter, .grid .w-1-4 { width: 25%; }
+
+.grid .three-quarters, .grid .w-3-4 { width: 75%; }
+
+.grid .one-fifth, .grid .w-1-5 { width: 20%; }
+
+.grid .two-fifths, .grid .w-2-5 { width: 40%; }
+
+.grid .three-fifths, .grid .w-3-5 { width: 60%; }
+
+.grid .four-fifths, .grid .w-4-5 { width: 80%; }
+
+.grid .golden-small, .grid .w-g-s { width: 38.2716%; }
+
+.grid .golden-large, .grid .w-g-l { width: 61.7283%; }
+
+.grid { }
+
+.grid::before, .grid::after { display: table; content: ""; line-height: 0; }
+
+.grid::after { clear: both; }
+
+.align-center { text-align: center; }
+
+.align-left { text-align: left; }
+
+.align-right { text-align: right; }
+
+.pull-left { float: left; }
+
+.pull-right { float: right; }
+
+@media screen and (max-width: 568px) {
+  .grid .unit { padding-left: 20px; padding-right: 20px; width: 100% !important; }
+  .unit .grid .unit { padding-left: 0px; padding-right: 0px; }
+  .center-on-mobiles { text-align: center !important; }
+  .hide-on-mobiles { display: none !important; }
+}
+
+@media screen and (min-width: 1180px) {
+  .wider .grid { max-width: 1180px; margin: 0px auto; }
+}
+------MultipartBoundary--IyzOFBAcvCB9mCvgK8YA3U4lv9hAUce0BzjLV25LUo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://guides.github.com/components/primer/markdown.css
+
+@charset "utf-8";
+
+.markdown-body { font-size: 15px; line-height: 1.7; overflow: hidden; }
+
+.markdown-body > :first-child { margin-top: 0px !important; }
+
+.markdown-body > :last-child { margin-bottom: 0px !important; }
+
+.markdown-body a.absent { color: rgb(204, 0, 0); }
+
+.markdown-body a.anchor { display: block; padding-left: 30px; margin-left: -30px; cursor: pointer; position: absolute; top: 0px; left: 0px; bottom: 0px; }
+
+.markdown-body h1, .markdown-body h2, .markdown-body h3, .markdown-body h4, .markdown-body h5, .markdown-body h6 { margin: 1em 0px 15px; padding: 0px; font-weight: bold; line-height: 1.7; cursor: text; position: relative; }
+
+.markdown-body h1 .octicon-link, .markdown-body h2 .octicon-link, .markdown-body h3 .octicon-link, .markdown-body h4 .octicon-link, .markdown-body h5 .octicon-link, .markdown-body h6 .octicon-link { display: none; color: rgb(0, 0, 0); }
+
+.markdown-body h1:hover a.anchor, .markdown-body h2:hover a.anchor, .markdown-body h3:hover a.anchor, .markdown-body h4:hover a.anchor, .markdown-body h5:hover a.anchor, .markdown-body h6:hover a.anchor { text-decoration: none; line-height: 1; padding-left: 0px; margin-left: -22px; top: 15%; }
+
+.markdown-body h1:hover a.anchor .octicon-link, .markdown-body h2:hover a.anchor .octicon-link, .markdown-body h3:hover a.anchor .octicon-link, .markdown-body h4:hover a.anchor .octicon-link, .markdown-body h5:hover a.anchor .octicon-link, .markdown-body h6:hover a.anchor .octicon-link { display: inline-block; }
+
+.markdown-body h1 tt, .markdown-body h1 code, .markdown-body h2 tt, .markdown-body h2 code, .markdown-body h3 tt, .markdown-body h3 code, .markdown-body h4 tt, .markdown-body h4 code, .markdown-body h5 tt, .markdown-body h5 code, .markdown-body h6 tt, .markdown-body h6 code { font-size: inherit; }
+
+.markdown-body h1 { font-size: 2.5em; border-bottom: 1px solid rgb(221, 221, 221); }
+
+.markdown-body h2 { font-size: 2em; border-bottom: 1px solid rgb(238, 238, 238); }
+
+.markdown-body h3 { font-size: 1.5em; }
+
+.markdown-body h4 { font-size: 1.2em; }
+
+.markdown-body h5 { font-size: 1em; }
+
+.markdown-body h6 { color: rgb(119, 119, 119); font-size: 1em; }
+
+.markdown-body p, .markdown-body blockquote, .markdown-body ul, .markdown-body ol, .markdown-body dl, .markdown-body table, .markdown-body pre { margin: 15px 0px; }
+
+.markdown-body hr { background: transparent; border: 0px none; color: rgb(204, 204, 204); height: 4px; padding: 0px; margin: 15px 0px; }
+
+.markdown-body li p.first { display: inline-block; }
+
+.markdown-body ul, .markdown-body ol { padding-left: 30px; }
+
+.markdown-body ul.no-list, .markdown-body ol.no-list { list-style-type: none; padding: 0px; }
+
+.markdown-body ul ul, .markdown-body ul ol, .markdown-body ol ol, .markdown-body ol ul { margin-top: 0px; margin-bottom: 0px; }
+
+.markdown-body dl { padding: 0px; }
+
+.markdown-body dl dt { font-size: 14px; font-weight: bold; font-style: italic; padding: 0px; margin-top: 15px; }
+
+.markdown-body dl dd { margin-bottom: 15px; padding: 0px 15px; }
+
+.markdown-body blockquote { border-left: 4px solid rgb(221, 221, 221); padding: 0px 15px; color: rgb(119, 119, 119); }
+
+.markdown-body blockquote > :first-child { margin-top: 0px; }
+
+.markdown-body blockquote > :last-child { margin-bottom: 0px; }
+
+.markdown-body table { width: 100%; overflow: auto; display: block; border-spacing: 0px; border-collapse: collapse; }
+
+.markdown-body table th { font-weight: bold; }
+
+.markdown-body table th, .markdown-body table td { border: 1px solid rgb(221, 221, 221); padding: 6px 13px; }
+
+.markdown-body table tr { border-top: 1px solid rgb(204, 204, 204); background-color: rgb(255, 255, 255); }
+
+.markdown-body table tr:nth-child(2n) { background-color: rgb(248, 248, 248); }
+
+.markdown-body img { max-width: 100%; box-sizing: border-box; }
+
+.markdown-body span.frame { display: block; overflow: hidden; }
+
+.markdown-body span.frame > span { border: 1px solid rgb(221, 221, 221); display: block; float: left; overflow: hidden; margin: 13px 0px 0px; padding: 7px; width: auto; }
+
+.markdown-body span.frame span img { display: block; float: left; }
+
+.markdown-body span.frame span span { clear: both; color: rgb(51, 51, 51); display: block; padding: 5px 0px 0px; }
+
+.markdown-body span.align-center { display: block; overflow: hidden; clear: both; }
+
+.markdown-body span.align-center > span { display: block; overflow: hidden; margin: 13px auto 0px; text-align: center; }
+
+.markdown-body span.align-center span img { margin: 0px auto; text-align: center; }
+
+.markdown-body span.align-right { display: block; overflow: hidden; clear: both; }
+
+.markdown-body span.align-right > span { display: block; overflow: hidden; margin: 13px 0px 0px; text-align: right; }
+
+.markdown-body span.align-right span img { margin: 0px; text-align: right; }
+
+.markdown-body span.float-left { display: block; margin-right: 13px; overflow: hidden; float: left; }
+
+.markdown-body span.float-left span { margin: 13px 0px 0px; }
+
+.markdown-body span.float-right { display: block; margin-left: 13px; overflow: hidden; float: right; }
+
+.markdown-body span.float-right > span { display: block; overflow: hidden; margin: 13px auto 0px; text-align: right; }
+
+.markdown-body code, .markdown-body tt { margin: 0px 2px; padding: 0px 5px; border: 1px solid rgb(221, 221, 221); background-color: rgb(248, 248, 248); border-radius: 3px; }
+
+.markdown-body code { white-space: nowrap; }
+
+.markdown-body pre > code { margin: 0px; padding: 0px; white-space: pre; border: none; background: transparent; }
+
+.markdown-body .highlight pre, .markdown-body pre { background-color: rgb(248, 248, 248); border: 1px solid rgb(221, 221, 221); font-size: 13px; line-height: 19px; overflow: auto; padding: 6px 10px; border-radius: 3px; }
+
+.markdown-body pre code, .markdown-body pre tt { margin: 0px; padding: 0px; background-color: transparent; border: none; }
+------MultipartBoundary--IyzOFBAcvCB9mCvgK8YA3U4lv9hAUce0BzjLV25LUo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://guides.github.com/components/primer/octicons.css
+
+@charset "utf-8";
+
+@font-face { font-family: octicons; src: url("octicons.eot?#iefix") format("embedded-opentype"), url("octicons.woff") format("woff"), url("octicons.ttf") format("truetype"), url("octicons.svg#octicons") format("svg"); font-weight: normal; font-style: normal; }
+
+.octicon, .mega-octicon { font: 16px / 1 octicons; display: inline-block; text-decoration: none; text-rendering: auto; -webkit-font-smoothing: antialiased; user-select: none; }
+
+.mega-octicon { font-size: 32px; }
+
+.octicon-alert::before { content: ""; }
+
+.octicon-arrow-down::before { content: ""; }
+
+.octicon-arrow-left::before { content: ""; }
+
+.octicon-arrow-right::before { content: ""; }
+
+.octicon-arrow-small-down::before { content: ""; }
+
+.octicon-arrow-small-left::before { content: ""; }
+
+.octicon-arrow-small-right::before { content: ""; }
+
+.octicon-arrow-small-up::before { content: ""; }
+
+.octicon-arrow-up::before { content: ""; }
+
+.octicon-microscope::before, .octicon-beaker::before { content: ""; }
+
+.octicon-bell::before { content: ""; }
+
+.octicon-book::before { content: ""; }
+
+.octicon-bookmark::before { content: ""; }
+
+.octicon-briefcase::before { content: ""; }
+
+.octicon-broadcast::before { content: ""; }
+
+.octicon-browser::before { content: ""; }
+
+.octicon-bug::before { content: ""; }
+
+.octicon-calendar::before { content: ""; }
+
+.octicon-check::before { content: ""; }
+
+.octicon-checklist::before { content: ""; }
+
+.octicon-chevron-down::before { content: ""; }
+
+.octicon-chevron-left::before { content: ""; }
+
+.octicon-chevron-right::before { content: ""; }
+
+.octicon-chevron-up::before { content: ""; }
+
+.octicon-circle-slash::before { content: ""; }
+
+.octicon-circuit-board::before { content: ""; }
+
+.octicon-clippy::before { content: ""; }
+
+.octicon-clock::before { content: ""; }
+
+.octicon-cloud-download::before { content: ""; }
+
+.octicon-cloud-upload::before { content: ""; }
+
+.octicon-code::before { content: ""; }
+
+.octicon-color-mode::before { content: ""; }
+
+.octicon-comment-add::before, .octicon-comment::before { content: ""; }
+
+.octicon-comment-discussion::before { content: ""; }
+
+.octicon-credit-card::before { content: ""; }
+
+.octicon-dash::before { content: ""; }
+
+.octicon-dashboard::before { content: ""; }
+
+.octicon-database::before { content: ""; }
+
+.octicon-clone::before, .octicon-desktop-download::before { content: ""; }
+
+.octicon-device-camera::before { content: ""; }
+
+.octicon-device-camera-video::before { content: ""; }
+
+.octicon-device-desktop::before { content: ""; }
+
+.octicon-device-mobile::before { content: ""; }
+
+.octicon-diff::before { content: ""; }
+
+.octicon-diff-added::before { content: ""; }
+
+.octicon-diff-ignored::before { content: ""; }
+
+.octicon-diff-modified::before { content: ""; }
+
+.octicon-diff-removed::before { content: ""; }
+
+.octicon-diff-renamed::before { content: ""; }
+
+.octicon-ellipsis::before { content: ""; }
+
+.octicon-eye-unwatch::before, .octicon-eye-watch::before, .octicon-eye::before { content: ""; }
+
+.octicon-file-binary::before { content: ""; }
+
+.octicon-file-code::before { content: ""; }
+
+.octicon-file-directory::before { content: ""; }
+
+.octicon-file-media::before { content: ""; }
+
+.octicon-file-pdf::before { content: ""; }
+
+.octicon-file-submodule::before { content: ""; }
+
+.octicon-file-symlink-directory::before { content: ""; }
+
+.octicon-file-symlink-file::before { content: ""; }
+
+.octicon-file-text::before { content: ""; }
+
+.octicon-file-zip::before { content: ""; }
+
+.octicon-flame::before { content: ""; }
+
+.octicon-fold::before { content: ""; }
+
+.octicon-gear::before { content: ""; }
+
+.octicon-gift::before { content: ""; }
+
+.octicon-gist::before { content: ""; }
+
+.octicon-gist-secret::before { content: ""; }
+
+.octicon-git-branch-create::before, .octicon-git-branch-delete::before, .octicon-git-branch::before { content: ""; }
+
+.octicon-git-commit::before { content: ""; }
+
+.octicon-git-compare::before { content: ""; }
+
+.octicon-git-merge::before { content: ""; }
+
+.octicon-git-pull-request-abandoned::before, .octicon-git-pull-request::before { content: ""; }
+
+.octicon-globe::before { content: ""; }
+
+.octicon-graph::before { content: ""; }
+
+.octicon-heart::before { content: "♥"; }
+
+.octicon-history::before { content: ""; }
+
+.octicon-home::before { content: ""; }
+
+.octicon-horizontal-rule::before { content: ""; }
+
+.octicon-hubot::before { content: ""; }
+
+.octicon-inbox::before { content: ""; }
+
+.octicon-info::before { content: ""; }
+
+.octicon-issue-closed::before { content: ""; }
+
+.octicon-issue-opened::before { content: ""; }
+
+.octicon-issue-reopened::before { content: ""; }
+
+.octicon-jersey::before { content: ""; }
+
+.octicon-key::before { content: ""; }
+
+.octicon-keyboard::before { content: ""; }
+
+.octicon-law::before { content: ""; }
+
+.octicon-light-bulb::before { content: ""; }
+
+.octicon-link::before { content: ""; }
+
+.octicon-link-external::before { content: ""; }
+
+.octicon-list-ordered::before { content: ""; }
+
+.octicon-list-unordered::before { content: ""; }
+
+.octicon-location::before { content: ""; }
+
+.octicon-gist-private::before, .octicon-mirror-private::before, .octicon-git-fork-private::before, .octicon-lock::before { content: ""; }
+
+.octicon-logo-github::before { content: ""; }
+
+.octicon-mail::before { content: ""; }
+
+.octicon-mail-read::before { content: ""; }
+
+.octicon-mail-reply::before { content: ""; }
+
+.octicon-mark-github::before { content: ""; }
+
+.octicon-markdown::before { content: ""; }
+
+.octicon-megaphone::before { content: ""; }
+
+.octicon-mention::before { content: ""; }
+
+.octicon-milestone::before { content: ""; }
+
+.octicon-mirror-public::before, .octicon-mirror::before { content: ""; }
+
+.octicon-mortar-board::before { content: ""; }
+
+.octicon-mute::before { content: ""; }
+
+.octicon-no-newline::before { content: ""; }
+
+.octicon-octoface::before { content: ""; }
+
+.octicon-organization::before { content: ""; }
+
+.octicon-package::before { content: ""; }
+
+.octicon-paintcan::before { content: ""; }
+
+.octicon-pencil::before { content: ""; }
+
+.octicon-person-add::before, .octicon-person-follow::before, .octicon-person::before { content: ""; }
+
+.octicon-pin::before { content: ""; }
+
+.octicon-plug::before { content: ""; }
+
+.octicon-repo-create::before, .octicon-gist-new::before, .octicon-file-directory-create::before, .octicon-file-add::before, .octicon-plus::before { content: ""; }
+
+.octicon-primitive-dot::before { content: ""; }
+
+.octicon-primitive-square::before { content: ""; }
+
+.octicon-pulse::before { content: ""; }
+
+.octicon-question::before { content: ""; }
+
+.octicon-quote::before { content: ""; }
+
+.octicon-radio-tower::before { content: ""; }
+
+.octicon-repo-delete::before, .octicon-repo::before { content: ""; }
+
+.octicon-repo-clone::before { content: ""; }
+
+.octicon-repo-force-push::before { content: ""; }
+
+.octicon-gist-fork::before, .octicon-repo-forked::before { content: ""; }
+
+.octicon-repo-pull::before { content: ""; }
+
+.octicon-repo-push::before { content: ""; }
+
+.octicon-rocket::before { content: ""; }
+
+.octicon-rss::before { content: ""; }
+
+.octicon-ruby::before { content: ""; }
+
+.octicon-screen-full::before { content: ""; }
+
+.octicon-screen-normal::before { content: ""; }
+
+.octicon-search-save::before, .octicon-search::before { content: ""; }
+
+.octicon-server::before { content: ""; }
+
+.octicon-settings::before { content: ""; }
+
+.octicon-shield::before { content: ""; }
+
+.octicon-log-in::before, .octicon-sign-in::before { content: ""; }
+
+.octicon-log-out::before, .octicon-sign-out::before { content: ""; }
+
+.octicon-squirrel::before { content: ""; }
+
+.octicon-star-add::before, .octicon-star-delete::before, .octicon-star::before { content: ""; }
+
+.octicon-stop::before { content: ""; }
+
+.octicon-repo-sync::before, .octicon-sync::before { content: ""; }
+
+.octicon-tag-remove::before, .octicon-tag-add::before, .octicon-tag::before { content: ""; }
+
+.octicon-telescope::before { content: ""; }
+
+.octicon-terminal::before { content: ""; }
+
+.octicon-three-bars::before { content: ""; }
+
+.octicon-thumbsdown::before { content: ""; }
+
+.octicon-thumbsup::before { content: ""; }
+
+.octicon-tools::before { content: ""; }
+
+.octicon-trashcan::before { content: ""; }
+
+.octicon-triangle-down::before { content: ""; }
+
+.octicon-triangle-left::before { content: ""; }
+
+.octicon-triangle-right::before { content: ""; }
+
+.octicon-triangle-up::before { content: ""; }
+
+.octicon-unfold::before { content: ""; }
+
+.octicon-unmute::before { content: ""; }
+
+.octicon-versions::before { content: ""; }
+
+.octicon-watch::before { content: ""; }
+
+.octicon-remove-close::before, .octicon-x::before { content: ""; }
+
+.octicon-zap::before { content: "⚡"; }
+------MultipartBoundary--IyzOFBAcvCB9mCvgK8YA3U4lv9hAUce0BzjLV25LUo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://guides.github.com/stylesheets/main.css
+
+@charset "utf-8";
+
+* { box-sizing: border-box; }
+
+html, body { margin: 0px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 18px; color: rgb(68, 68, 68); background-color: rgb(255, 255, 255); }
+
+.task-list-item { list-style: none; }
+
+.guide-listings { width: 990px; margin-top: 20px; }
+
+.guide-listing { float: left; width: 440px; margin-right: 50px; margin-bottom: 30px; }
+
+.guide-listing:nth-child(2n+1) { clear: both; }
+
+.guide-cover-guilloche { position: absolute; z-index: 1; width: 440px; height: 225px; }
+
+.guide-cover { position: relative; z-index: 2; height: 225px; color: rgb(255, 255, 255); text-align: center; background-color: rgb(170, 170, 170); }
+
+.guide-cover a { display: block; width: 440px; height: 225px; padding: 30px 40px; color: rgb(255, 255, 255); }
+
+.icon-container { width: 68px; height: 68px; text-align: center; background-color: rgba(0, 0, 0, 0.5); border-radius: 34px; }
+
+.guide-cover .icon-container { margin: 0px auto; }
+
+.icon-container .mega-octicon { line-height: 68px; }
+
+.guide-cover-title { margin-top: 20px; font-size: 32px; font-weight: normal; line-height: 1.3; text-shadow: rgba(0, 0, 0, 0.15) 0px 2px 0px; }
+
+.guide-summary { font-size: 16px; line-height: 1.3; }
+
+.guide-read-time { font-size: 14px; color: rgb(136, 136, 136); }
+
+.wrap { max-width: 960px; padding: 0px 15px; margin: 0px auto; }
+
+article.full .content-body { width: 650px; padding-bottom: 30px; font-size: 18px; }
+
+article.full .content-body.full-width { width: 100%; }
+
+.toc-wrapper { float: right; width: 200px; }
+
+ol.toc { width: 200px; margin: 0px; }
+
+ol.toc.sticky { position: fixed; top: 20px; }
+
+@media (max-width: 900px) {
+  .wrap { }
+  article.full .content-body { width: auto; }
+  ol.toc { float: none; width: auto; margin: -10px 0px 20px; }
+}
+
+.article-heading { position: relative; margin-top: 10px; margin-bottom: 40px; text-shadow: rgba(0, 0, 0, 0.15) 0px 2px 0px; background-color: rgb(170, 170, 170); }
+
+.article-header-pattern { position: absolute; z-index: 1; display: none; }
+
+.article-heading .wrap { position: relative; z-index: 2; padding: 50px 0px; color: rgb(255, 255, 255); }
+
+.article-heading .icon-container { position: absolute; left: 15px; display: inline-block; float: left; margin-top: 30px; margin-right: 20px; }
+
+.article-read-time { margin-left: 108px; clear: left; }
+
+.article-pdf { margin-left: 20px; }
+
+.article-meta { color: rgba(255, 255, 255, 0.7); }
+
+.article-meta .octicon { position: relative; top: -1px; }
+
+.article-meta { }
+
+.markdown-example { margin: 20px 0px; border: 1px solid rgb(204, 204, 204); border-radius: 3px; box-shadow: rgba(0, 0, 0, 0.075) 0px 1px 3px; }
+
+.markdown-example .source { padding: 20px; margin: 0px; font-size: 16px; line-height: 28px; white-space: pre-wrap; background: rgb(248, 248, 248); border-top: none; border-right: none; border-left: none; border-image: initial; border-bottom: 1px solid rgb(204, 204, 204); border-radius: 0px; }
+
+.markdown-example .rendered { padding: 20px; }
+
+.markdown-body ul.example-nav { padding: 0px; margin: 20px 0px; }
+
+.example-nav li { display: inline-block; padding: 0px; margin: 0px 15px 0px 0px; list-style-type: none; }
+
+.example-nav li a { font-size: 16px; font-weight: bold; }
+
+.example-nav li a.selected { padding: 2px 12px 4px; color: rgb(255, 255, 255); background: rgb(65, 131, 196); border-radius: 20px; }
+
+.alert { position: relative; padding: 15px; margin: 0px auto; color: rgb(38, 76, 114); background-color: rgb(216, 235, 248); border: 1px solid rgb(151, 193, 218); border-radius: 3px; }
+
+.alert :first-child { margin-top: 0px; }
+
+.alert :last-child { margin-bottom: 0px; }
+
+a { color: rgb(65, 131, 196); text-decoration: none; }
+
+header { padding: 35px 0px 20px; }
+
+header img { opacity: 0.3; }
+
+header ul.links { float: right; padding: 0px; margin: 2px 0px 0px; }
+
+header ul.links > li { display: inline-block; margin-left: 20px; font-size: 13px; font-weight: bold; list-style-type: none; }
+
+header ul.links > li a { color: rgb(153, 153, 153); }
+
+article { line-height: 1.5; }
+
+article h1 { margin-bottom: 10px; margin-left: 105px; font-size: 48px; font-weight: normal; line-height: 1; letter-spacing: -1px; }
+
+article h2 { color: rgb(0, 0, 0); }
+
+article img { max-width: 100%; padding: 2px; margin-top: 8px; background: rgb(250, 250, 250); border: 1px solid rgb(238, 238, 238); }
+
+article img.emoji { padding: 0px; margin: 0px; background: transparent; border: none; }
+
+footer { padding-top: 20px; padding-bottom: 20px; margin-top: 20px; font-size: 16px; line-height: 1.3; color: rgb(153, 153, 153); text-align: center; }
+
+footer .mega-octicon { color: rgb(221, 221, 221); }
+
+ol.toc { padding: 0px; }
+
+ol.toc > li { padding: 5px 0px; margin: 0px; font-size: 16px; list-style-type: none; }
+
+ol.toc > li a.active { font-weight: bold; color: rgb(68, 68, 68); }
+
+.last-updated { padding-top: 30px; font-size: 14px; color: rgb(153, 153, 153); }
+
+.cf::before, .cf::after { display: table; content: " "; }
+
+.cf::after { clear: both; }
+
+.pd-embedded { margin: 20px 0px; }
+
+.nav-rss a .octicon-rss { color: rgb(255, 102, 0); }
+
+@media only screen and (max-width: 959px) {
+  .guide-listing { width: 400px; margin-right: 20px; }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+  article.full .content-body { width: 500px; }
+  .guide-listings { width: 100%; }
+  .guide-listing { width: 48%; margin-right: 4%; }
+  .guide-listing:nth-child(2n) { margin-right: 0px; }
+  .guide-cover { width: 100%; }
+  .guide-cover-title { font-size: 28px; }
+  .guide-cover a { width: 100%; padding-right: 15px; padding-left: 15px; }
+}
+
+@media only screen and (max-width: 767px) {
+  html, body { font-size: 15px; }
+  .nav-github, .nav-rss { display: none !important; }
+  .article-heading .wrap { padding: 30px 0px; }
+  article h1 { margin-left: 96px; font-size: 34px; }
+  .article-read-time { margin-left: 96px; }
+  article.full .content-body { width: 100%; }
+  .toc-wrapper { display: none; }
+  .landing-page.wrap, .guide-listings { width: 100%; }
+  .guide-cover a { width: 100%; padding-right: 15px; padding-left: 15px; }
+  .guide-cover-title { font-size: 26px; }
+  .guide-listing { display: block; float: none; width: 100%; margin-right: 0px; }
+  footer { font-size: 12px; }
+}
+------MultipartBoundary--IyzOFBAcvCB9mCvgK8YA3U4lv9hAUce0BzjLV25LUo----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://guides.github.com/stylesheets/pygments.css
+
+@charset "utf-8";
+
+pre .k, pre .kc { color: rgb(170, 13, 146); font-weight: bold; }
+
+pre .nc, pre .nx { color: rgb(0, 0, 0); }
+------MultipartBoundary--IyzOFBAcvCB9mCvgK8YA3U4lv9hAUce0BzjLV25LUo------
