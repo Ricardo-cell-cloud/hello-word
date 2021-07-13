@@ -1,1 +1,0 @@
-https://github.com/Ricardo-cell-cloud/electron-store
